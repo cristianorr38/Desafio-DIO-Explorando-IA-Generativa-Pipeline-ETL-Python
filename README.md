@@ -1,12 +1,12 @@
 # Desafio DIO - Explorando IA Generativa em um Pipeline de ETL com Python
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-orange.svg)
-![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.12.13-blue.svg)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-brightgreen.svg)
+![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-success)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
-[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python?style=social)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python?style=social)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
