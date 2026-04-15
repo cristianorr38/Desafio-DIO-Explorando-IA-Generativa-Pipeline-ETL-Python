@@ -56,7 +56,7 @@ O foco é compreender como os dados fluem entre as etapas e aplicar **IA Generat
 
 ## 📂 Estrutura do Projeto
 ```bash
-etl-ia-generativa/
+Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python/
 │
 ├── data/
 │   └── dados_clientes.csv
