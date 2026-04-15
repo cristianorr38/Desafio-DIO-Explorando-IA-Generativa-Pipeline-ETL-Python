@@ -259,14 +259,35 @@ display(df_verificacao.head())
 
 ---
 
-📸 Prints do Projeto
+📸 Detalhes do Projeto *(Google Colab Notebook)*
 
-Google Colab Notebook
+DataFrame:
 
-(Inserir aqui print da execução do notebook no Google Colab)
-Dataset Utilizado
+<img width="1446" height="812" alt="etl_1" src="https://github.com/user-attachments/assets/d7b5c373-7463-460c-8c49-c539dc87da9c" />
 
-(Inserir aqui print das primeiras linhas do arquivo de dados)
+JSON:
+
+<img width="1870" height="991" alt="etl_2" src="https://github.com/user-attachments/assets/d3733fcc-58c5-4b75-aa6c-fb768ab35e61" />
+
+API Key:
+
+<img width="433" height="456" alt="API Key Google" src="https://github.com/user-attachments/assets/207e1392-9f2a-42ff-98f5-2d5f71ac12b6" />
+
+Inteligência artificial:
+
+<img width="1866" height="984" alt="etl_3" src="https://github.com/user-attachments/assets/34e1380e-3a60-44af-88ee-c07f6dc29cd2" />
+
+JSON atualizado:
+
+<img width="1866" height="995" alt="etl_4" src="https://github.com/user-attachments/assets/8beb843b-a872-4754-963a-a75f8c4e9454" />
+
+DataFrame atualizado
+
+<img width="1863" height="995" alt="etl_5" src="https://github.com/user-attachments/assets/cffd6773-2551-4d2a-b203-4ec9238c2a28" />
+
+DataFrame (Dados clientes atualizados):
+
+<img width="1462" height="429" alt="Dados clientes atualizado" src="https://github.com/user-attachments/assets/c8a50447-78c9-441b-ae8d-fe29a8a5d9b5" />
 
 ---
 
