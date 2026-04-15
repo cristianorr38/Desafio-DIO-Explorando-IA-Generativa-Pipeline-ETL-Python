@@ -31,7 +31,7 @@ O foco é compreender como os dados fluem entre as etapas e aplicar **IA Generat
 - O código deve ser escrito em **Python 3.x**.  
 - Caso a API esteja indisponível, utilizar alternativas:  
   - Criar lista fictícia de usuários diretamente no código.  
-  - Utilizar arquivo CSV com colunas `Nome`, `Conta`, `Cartão`.  
+  - Utilizar arquivo CSV com colunas `ID`, `Nome`, `Agencia`, `Numero_Conta`, `Saldo`, `Limite`, `Numero_Cartao`, `Limite_Cartao`, `News`.
 - Garantir que o pipeline seja **reprodutível** e bem documentado.  
 - Utilizar boas práticas de programação e organização de notebooks.  
 
@@ -48,7 +48,7 @@ O foco é compreender como os dados fluem entre as etapas e aplicar **IA Generat
 ## 📦 Requisitos
 - Conta Google para acesso ao Colab.  
 - Conhecimento básico em Python e bibliotecas:  
-  - `pandas`, `numpy`, `matplotlib`, `seaborn`  
+  - `pandas`, `numpy`, `json`, `api`, `ia`
 - Dataset em formato `.csv` ou lista de dados fictícios.  
 - Conexão com internet para execução no Colab.  
 
@@ -76,21 +76,27 @@ etl-ia-generativa/
 
 ---
 
-🛣️ Roadmap do Projeto
+## 🛣️ Roadmap do Projeto
 
+- [x] Definição do objetivo e escopo.
+- [x] Configuração do notebook no Google Colab.
+- [x] Implementação da etapa de Extração.
+- [x] Implementação da etapa de Transformação com IA.
+- [x] Implementação da etapa de Carregamento.
+- [x] Testes e validação do pipeline.
+- [x] Documentação e entrega final.
+
+Progresso atual:  
+`█████████████████████` **100% Concluído**
 
 ---
 
-📌 Release
+## 📌 Release
 
-Versão 1.0.0
-
+**Versão 1.0.0**  
 - Estrutura inicial criada.
-
 - Notebook configurado no Google Colab.
-
 - Dataset fictício importado e explorado.
-
 
 ---
 
