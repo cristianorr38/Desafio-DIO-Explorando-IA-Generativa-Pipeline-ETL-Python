@@ -3,11 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3.12.13-blue.svg)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-brightgreen.svg)
 ![ETL](https://img.shields.io/badge/ETL-Extract--Transform--Load-blue.svg)
-![Build](https://img.shields.io/badge/build-passing-success)
+![Build](https://img.shields.io/badge/build-success-success)
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
 ![Status](https://img.shields.io/badge/status-Finalizado-brightgreen)
-[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python?style=social)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python?style=social)](https://github.com/cristianorr38/Desafio-DIO-Explorando-IA-Generativa-Pipeline-ETL-Python)
 
 ---
 
